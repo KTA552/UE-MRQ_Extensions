@@ -16,7 +16,7 @@
 	"Modules": [
 		{
 			"Name": "MRQ_Extensions",
-			"Type": "Editor",
+			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	]
