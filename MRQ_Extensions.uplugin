@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MRQ_Extensions",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "KTA552",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MRQ_Extensions",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
